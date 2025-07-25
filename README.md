@@ -1,0 +1,2 @@
+# getx_mvvm_mvc_architecture13
+getx_mvvm_mvc_architecture13
